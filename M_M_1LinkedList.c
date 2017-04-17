@@ -46,7 +46,7 @@ struct test_struct
 // build struct for initialize node
 struct test_struct* create_list()
 {
-  //  printf(" as [%d]\n",val);
+  //  printf(" as [%d]\n",val); /* allocated to insert datatype */
     struct test_struct *ptr = (struct test_struct*)malloc(sizeof(struct test_struct));
     if(NULL == ptr)
     {
