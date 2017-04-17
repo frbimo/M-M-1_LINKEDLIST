@@ -1,7 +1,16 @@
-// starts 3/25/2017
+/*  starts 3/25/2017
 
-// AVBee rev.6.0 Last Update : April 16,2017
-// Modified Queue M/M/1 with linkedlist
+    AVBee rev.6.0 Last Update : April 16,2017
+    Modified Queue M/M/1 with linkedlist
+
+    https://github.com/AVBee/M-M-1_LINKEDLIST
+    
+    This is homework's program used for educational purpose only.
+    The program was originally written not by myself. I modified it with 
+    additional function and implemented Linked List method that was described 
+    in 'README.md' file. 
+    
+*/
 
 #include <stdio.h>
 #include <stdbool.h>
