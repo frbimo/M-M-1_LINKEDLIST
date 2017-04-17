@@ -262,7 +262,7 @@ void arrive(void) /* Arrival event function. */
 	 /* Server is busy, so increment number of customers in queue. */
             add_to_list(true);
 
-        //print_list();
+        //print_list();  /* #DEBUG */
 
 	 /* Check to see whether an overflow condition exists. */
         if (num_in_q > Q_LIMIT)
