@@ -1,6 +1,9 @@
 /*  starts 3/25/2017
+    Last Update : April 16,2017
 
-    AVBee rev.6.0 Last Update : April 16,2017
+    BIMO
+    
+    AVBee rev.6.0 
     Modified Queue M/M/1 with linkedlist
 
     https://github.com/AVBee/M-M-1_LINKEDLIST
